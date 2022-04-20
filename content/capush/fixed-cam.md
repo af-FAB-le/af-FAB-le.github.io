@@ -1,6 +1,6 @@
 ---
 title: "[Capush] fixed camera unit"
-date: 2022-04-01T16:44:53+02:00
+date: 2022-04-04T16:44:53+02:10
 draft: false
 images: 
 - "/images/fixed-cam.jpg"
