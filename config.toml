@@ -6,14 +6,14 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-XXXX"
+googleAnalytics = "G-YBTVPBQ0MB"
 DisqusShortname = ""
 theme = "chunky-poster"
 
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "About"
     url = "/"
     weight = 1
   [[menu.main]]
