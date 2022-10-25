@@ -6,6 +6,7 @@ The following people are currently involved in this project
 - [Yvonne Jansen](http://yvonnejansen.me) (CR CNRS, project lead)
 - [Gilles Bailly](https://hci.isir.upmc.fr/gilles-bailly/) (CR CNRS, collaborator)
 - [Ignacio Avellino](http://www.ignacioavellino.com/) (CR CNRS, collaborator)
+- Christian Simon (Directeur du [Fablab Sorbonne Université](https://fablab.sorbonne-universite.fr/))
 
 The following people were previously involved in some part of the project:
 - Tiffany Wun (intern, May 2018 - July 2018)
@@ -13,6 +14,7 @@ The following people were previously involved in some part of the project:
 - Arthus Grisel-Davi (intern, June - August 2019)
 - Vincent Roudaut (engineer, November 2019 - Octo 2020)
 - Kevin Jabbour (intern, March 2020 - Aug 2020)
+
 
 
 ### Context
@@ -25,7 +27,11 @@ Recognizing both the importance of sharing knowledge and the overhead that docum
 
 - We report findings from a survey inquiring about capturing practices and needs. Find [a summary here](/survey).
 - We present the [Capush framework](/capush) and set of prototypes based on the framework's design principles (see below for details on each).
+- We discuss the potential and limitations of automating content capture for documentation. Find our position paper [here](https://hal.sorbonne-universite.fr/hal-03808703/file/CHI_22_Automating_Documentation.pdf).
+- We review the literature to identify objectives and challenges of knowledge resources in maker spaces (under review).
 
 ### Publications
-
-(coming soon)
+(automatically loaded from HAL, [click here](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Clara+Rigaud&annee_publideb=2018&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css) if nothing is visible below)
+</script>
+<iframe name="hal" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Clara+Rigaud&annee_publideb=2018&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&ordre_aff=TA&Fen=Aff&css=https://af-fab-le.github.io/css/hal.css" scrolling="no" style="height: 400px;"></iframe>
+<!-- <iframe name="hal" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Clara+Rigaud&annee_publideb=2018&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css" scrolling="no" style="height: 400px;"></iframe> -->
