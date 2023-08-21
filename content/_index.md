@@ -28,7 +28,7 @@ Recognizing both the importance of sharing knowledge and the overhead that docum
 - We report findings from a survey inquiring about capturing practices and needs. Find [a summary here](/survey).
 - We present the [Capush framework](/capush) and set of prototypes based on the framework's design principles (see below for details on each).
 - We discuss the potential and limitations of automating content capture for documentation. Find our position paper [here](https://hal.sorbonne-universite.fr/hal-03808703/file/CHI_22_Automating_Documentation.pdf).
-- We review the literature to identify objectives and challenges of knowledge resources in maker spaces (under review).
+- We review the literature to identify objectives and challenges of knowledge resources in maker spaces [here (in French)](https://hal.sorbonne-universite.fr/hal-04015740v1/document).
 
 ### Publications
 (automatically loaded from HAL, [click here](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Clara+Rigaud&annee_publideb=2018&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css) if nothing is visible below)
